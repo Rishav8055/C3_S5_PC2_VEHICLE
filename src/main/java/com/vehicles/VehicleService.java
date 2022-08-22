@@ -1,2 +1,5 @@
-package com.vehicles;public class VehicleService {
+package com.vehicles;
+
+public class VehicleService {
+
 }
